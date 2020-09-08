@@ -1,1 +1,3 @@
-GIT part of the project
+GIT part of the project 
+
+##Edit THe readme file
