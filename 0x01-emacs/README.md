@@ -1,0 +1,1 @@
+Emacs part of my project
